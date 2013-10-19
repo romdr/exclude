@@ -143,7 +143,6 @@ exclude.py "D:\\path\\to\\code" -d -sp "D:\\path\\to\\code\\my.sln" -bc "Release
 
 	single_file_to_check = args.file
 
-	print project_folder, use_msbuild, safe_mode, single_file_to_check, project_config, project_platform, project_path
 	run(project_folder=project_folder, use_msbuild=use_msbuild, safe_mode=safe_mode,
 		project_config=project_config, project_platform=project_platform, project_path=project_path,
 		solution_path=solution_path, build_config=build_config, build_project=build_project,
