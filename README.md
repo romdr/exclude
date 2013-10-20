@@ -82,7 +82,7 @@ exclude.py "D:\path\to\code" -d -sp "D:\path\to\code\my.sln" -bc "Release|Win32"
 
 ## ISC License
 
-https://github.com/shazbits/mtwr/blob/master/LICENSE.txt
+[LICENSE](LICENSE.txt)
 
 Romain Dura
 
